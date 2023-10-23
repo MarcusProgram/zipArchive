@@ -1,3 +1,5 @@
+#!!!!!!Добавить в корень файл txts !!!!!!!!!!!!
+
 import shutil
 import zipfile
 
